@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">An Information Technology student passionate about Java, DSA, and backend development</h3>
+<h3 align="center">An Information Technology student passionate about Java, DSA, and web development</h3>
 
-- 🔭 I’m currently working on [DSA practice using Java and building backend projects with Spring Boot](https://github.com/abhishek-it28/DSA-Java)
+- 🔭 I’m currently working on [DSA practice using Java and building projects using Mern](https://github.com/abhishek-it28/DSA-Java)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms, Java, Spring Boot, Git, and GitHub**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Java, Mern, Git, and GitHub**
 
-- 👯 I’m looking to collaborate on **Beginner-friendly Java or backend development projects**
+- 👯 I’m looking to collaborate on **full stack projects**
 
 - 🤝 I’m looking for help with **System Design and advanced backend development**
 
-- 💬 Ask me about **Java, DSA, and backend development basics**
+- 💬 Ask me about **Java, DSA, and web development **
 
 - 📫 How to reach me **abhishek.it2028@gmail.com**
 
